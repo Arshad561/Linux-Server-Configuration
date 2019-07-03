@@ -8,6 +8,7 @@ Part of Udacity's Full Stack Web Developer Course
 ### you can access this application at below links ###
 - http://13.127.198.27/
 - http://ec2-13-127-198-27.ap-south-1.compute.amazonaws.com/
+- http://13.127.198.27.xip.io (This DNS name is required to add oauth to our application since google cannot accept IP address only for authentication. Visit [this link](http://xip.io) for more info about xip.io
 
 ## Get Started
 To complete this project, you'll need a Linux server instance. We recommend using Amazon Lightsail for this. If you don't already have an Amazon Web Services account, you'll need to set one up. Once you've done that, here are the steps to complete this project.
@@ -191,3 +192,12 @@ To complete this project, you'll need a Linux server instance. We recommend usin
 - Now follow the link to http://13.127.198.27/  the application should be runing online
 
 #### Use xip.io for setting DNS name to your IP Address in order to run your application smoothly. 
+
+## ReSources used
+- [Amazon Lightsail](https://lightsail.aws.amazon.com) for creating ubuntu instance
+- [Google API Console](https://console.developers.google.com/)
+- [Udacity](https://www.udacity.com)
+- [Apache](https://httpd.apache.org/docs/2.2/configuring.html)
+- [Github](https://github.com/)
+- Postgresql
+- [xip.io for DNS](http://xip.io)
